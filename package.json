@@ -1,0 +1,27 @@
+{
+  "name": "simple-console",
+  "version": "1.0.0",
+  "description": "simple-console,jsconsole",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doshare/console.git"
+  },
+  "keywords": [
+    "simple-console",
+    "jsconsole",
+    "console"
+  ],
+  "author": "doshare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doshare/console/issues"
+  },
+  "homepage": "https://github.com/doshare/console#readme"
+}
