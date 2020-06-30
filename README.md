@@ -1,7 +1,6 @@
 # console
 ## DEMO
 ```
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,11 +9,11 @@
     <title>Title</title>
 </head>
 <body>
-
+<div>result displays in the console.</div>
 <script language="JavaScript">
 document.body.onload=function(){
-    console.log('lsdfasdfs')
-    log('okkkkkk')
+    console.log('simple console')
+    log('jsconsole')
 }
 
 </script>
